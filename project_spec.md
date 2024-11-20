@@ -1,4 +1,4 @@
-# **APP_NAME_HERE**
+# RecipeFinder
 
 ## Table of Contents
 
