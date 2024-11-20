@@ -1,3 +1,11 @@
+**SkillSwap (Social & Education):**
+Description:
+A platform for users to exchange skills in their local area or virtually. For example, someone could offer piano lessons in exchange for Spanish tutoring.
+
+**MoodMap (Health & Lifestyle):**
+Description:
+An app that tracks your daily mood using quick self-assessments and suggests personalized activities or content (like workouts, meditations, or inspirational videos) to improve or maintain your mood.
+
 **LearnOnTheGo (Education):**
 A mobile app offering micro-learning sessions on various topics, designed to fit into a busy schedule. Users can choose topics, set learning goals, and earn badges for progress.
 
@@ -48,22 +56,27 @@ A task management app awards users for completing tasks with points. You can ear
     * A watered down version of the app would still have value
     * Defined as a gamified productivity tool
 
-**AI Recipe Finder:**
+
+
+
+
+
+
+
+We chose 
+**Recipe Finder:**
 Allow users to enter ingredients they have on hand to generate custom recipes.
 1. **Mobile:** 
     *
 
 2. **Story:**
-    * Saves time and reduces food waste
-    * Peers would find this app useful
+    * 
 
 3. **Market:**
-    * Market includes home cooks, students, and everyday people
-    * Provides a unique value to cooks
+    * 
 
 4. **Habit:**
-    * Users would use when needed
-    * Users would consume generated recipes
+    *
 
 5. **Scope:**
     * 
