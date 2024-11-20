@@ -72,6 +72,7 @@ Required Feature
 
 ![image](https://github.com/user-attachments/assets/e2a944cb-e89a-4971-be89-b16464cd56f2)
 
+![image](https://github.com/user-attachments/assets/05ad4036-1915-4bcd-b7dc-9e4bd514b0f9)
 
 
 ### [BONUS] Digital Wireframes & Mockups
